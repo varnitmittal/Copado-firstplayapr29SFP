@@ -3,7 +3,7 @@
     <fullName>Donor_Report_Submission__c</fullName>
     <externalId>false</externalId>
     <label>Donor Report Submission</label>
-    <length>100</length>
+    <length>90</length>
     <required>false</required>
     <trackTrending>false</trackTrending>
     <type>Text</type>
